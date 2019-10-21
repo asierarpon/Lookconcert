@@ -1,7 +1,0 @@
-*froga*
-[Sarrera][1]
-[Google](www.google.es)
-Helburua
-SDVNdivnPDNV
-wdvnwsdnvñwmdv+iwv
-[1]:Sarrera
