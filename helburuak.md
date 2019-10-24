@@ -1,6 +1,6 @@
 # Lookconcert
 Kontzertuak bilatzeko aplikazioa: LOOKCONCERT
-Musika taldeek haein kontzertuak noiz eta non izango diren publikatzeko aplikazioa, honen bidez jende gehiago hurbilduko da kontzertuetara eta jendea beti egongo da informatua taldeen kontzertuaz eta ez dute galduko gogokoen taldeen kontzertuak
+MuiUsika taldeek haein kontzertuak noiz eta non izango diren publikatzeko aplikazioa, honen bidez jende gehiago hurbilduko da kontzertuetara eta jendea beti egongo da informatua taldeen kontzertuaz eta ez dute galduko gogokoen taldeen kontzertuak
 Helburuak:
 1.	Kontzertuak noiz eta non diren jakitea: Egun bakoitzean eta herri bakoitzean zer kontzertu egongo diren informatuta egotea.
 
